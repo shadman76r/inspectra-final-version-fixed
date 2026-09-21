@@ -1,0 +1,24 @@
+# Inspectra AI — Today's Completion Checklist
+
+- [x] Separate Website Audit and Figma Match main tabs
+- [x] Keep SEO in Website Audit
+- [x] Add GEO readiness checks
+- [x] Add visual performance score and metric representation
+- [x] Add Desktop / Tablet / Mobile responsive audit
+- [x] Add real responsive screenshots
+- [x] Keep Website QA checks in the Website Audit tab
+- [x] Remove Figma from the Website Audit score/report
+- [x] Load Figma frame using URL + token
+- [x] Show all comparable Figma elements in a searchable clickable browser
+- [x] Compare only the Figma element selected by the user
+- [x] Add confidence-based DOM matching instead of exact-ID dependency
+- [x] Add Figma preview + matched live element preview
+- [x] Add property-by-property selected element report
+- [x] Add website PDF report
+- [x] Add selected Figma element PDF report
+- [x] Add tomorrow merge guide
+- [x] Backend syntax validation
+- [x] Backend smoke/regression tests
+- [ ] Run `npm install` and `npm run build` on the target PC (package installation could not finish inside the current execution environment)
+- [ ] Real authenticated Figma API test with your token on your PC
+- [ ] Real target website audit on your PC
