@@ -8,10 +8,14 @@
     "check": "node --check server.js",
     "test": "node tests/smoke.js"
   },
+  "engines": {
+    "node": ">=22.17.0"
+  },
   "dependencies": {
+    "@sparticuz/chromium": "153.0.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "pdfkit": "^0.17.2",
-    "playwright": "^1.55.0"
+    "playwright": "1.64.1"
   }
 }
